@@ -31,8 +31,8 @@ tags:
   - Requiem
   - Élégie
 length: 18054906
-duration: '00:29:58'
-categories: []
+duration: 00:29:58
+categories: podcast
 date: 2017-03-17 12:00:00
 ---
 <audio src="//static.sapu.gq/podcast/7-Faure.m4a" controls preload="metadata"></audio>
