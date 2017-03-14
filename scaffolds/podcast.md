@@ -15,12 +15,12 @@ chapters:
   ]
 ---
 
+<audio src="//static.sapu.gq/podcast/" controls preload="metadata"></audio>
 
 <!--more-->
 
 ## 播放乐曲
 -
 
-<audio src="//static.sapu.gq/podcast/" controls preload="metadata"></audio>
 ### [下载链接](//static.sapu.gq/podcast/)
 
