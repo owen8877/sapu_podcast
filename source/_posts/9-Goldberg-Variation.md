@@ -1,7 +1,7 @@
 title: 9 Goldberg Variation (19-30)
 category: podcast
 media: /podcast/9-Goldberg-Variation.m4a
-image: /image/logo.jpg
+image: /image/9-Goldberg-Variations.jpg
 mediatype: audio/m4a
 chapters:
   - - '0:00.000'
