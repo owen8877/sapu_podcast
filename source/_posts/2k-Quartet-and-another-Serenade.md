@@ -23,8 +23,8 @@ tags:
   - Mozart
   - Serenade
   - Elgar
-length:
-duration:
+length: 18074216
+duration: 00:30:00
 ---
 <audio src="//static.sapu.gq/podcast/2k-Quartet-and-another-Serenade.m4a" controls preload="metadata"></audio>
 
