@@ -2,7 +2,7 @@
 title: 12 舒曼弦乐四重奏 No.3
 category: podcast
 media: /podcast/12-Schumann's-Quartet.m4a
-image: /image/12-Schumann's-Quartet.jpg
+image: /image/12-Schumann-s-Quartet.jpg
 mediatype: audio/m4a
 chapters: [
   ["0:00.000", "引子"],
@@ -28,8 +28,8 @@ duration: 00:30:56
 # [舒曼](https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E8%88%92%E6%9B%BC)
 舒曼 (1810年6月8日－1856年7月29日)，德国作曲家，浪漫主义音乐成熟时期代表人物之一。
 
-# [Op41](https://en.wikipedia.org/wiki/String_Quartets_(Schumann))
-这是舒曼作品中仅有的三部弦乐四重奏。早在 1837 年，舒曼写信给他的未婚妻说：“四重奏这种音乐形式让我感到很有意思，单单写作钢琴作品实在有些狭窄了……”此时舒曼曾有过一些想法，但是直至五年后的二月份，舒曼才决定继续写作。受到抑郁的困扰，舒曼有一段时间无法进行创作，终于从6月4日他开始写作第一乐章，在7月22日写完第三乐章——从这个角度来说，舒曼创作的速度是相当之快的。作品于同年九月首演，作为给他23岁妻子的生日礼物。
+# Op41
+这是舒曼作品中仅有的三部<a href="https://en.wikipedia.org/wiki/String_Quartets_(Schumann)">弦乐四重奏</a>。早在 1837 年，舒曼写信给他的未婚妻说：“四重奏这种音乐形式让我感到很有意思，单单写作钢琴作品实在有些狭窄了……”此时舒曼曾有过一些想法，但是直至五年后的二月份，舒曼才决定继续写作。受到抑郁的困扰，舒曼有一段时间无法进行创作，终于从6月4日他开始写作第一乐章，在7月22日写完第三乐章——从这个角度来说，舒曼创作的速度是相当之快的。作品于同年九月首演，作为给他23岁妻子的生日礼物。
 
 <!--more-->
 

@@ -2,7 +2,7 @@
 title: 13 舒曼弦乐四重奏 No.1
 category: podcast
 media: /podcast/13-Schumann's-Quartet.m4a
-image: /image/13-Schumann's-Quartet.jpg
+image: /image/13-Schumann-s-Quartet.jpg
 mediatype: audio/m4a
 chapters: [
   ["0:00.000", "引子"],
@@ -21,6 +21,9 @@ duration: 00:28:17
 ---
 
 <audio src="//static.sapu.gq/podcast/13-Schumann's-Quartet.m4a" controls preload="metadata"></audio>
+
+# About
+嘉宾 陈子恒
 
 # [背景](http://www.laphil.com/philpedia/music/string-quartet-no-1-op-41-robert-schumann)
 如果我们将时钟的指针向前拨快一年，1841年，舒曼正享受着和他新婚的钢琴家妻子的蜜月之旅；然而，不久舒曼就发现他妻子是如此富有才华，以致他觉得自己处于他妻子声誉的阴影下。正如20世纪音乐史学家 Gerald Abraham杰拉尔德·阿夫拉姆 所写的那样：“舒曼陷入了深深的犹豫之中，将自己埋没在啤酒和香槟之中，无法创作……”这段经历很有可能影响了一年后的舒曼，这三部作品无疑都展显出了极大的情绪的波动。
