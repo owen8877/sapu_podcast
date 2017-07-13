@@ -11,7 +11,7 @@ chapters: [
   ["14:46.000", "Schumann Op41 No1 III"],
   ["21:16.676", "Schumann Op41 No1 IV"],
 ]
-date: 2017-04-28 12:00:00
+date: 2017-07-07 12:00:00
 subtitle: 13 Schumann's Quartet
 tags:
   - Schumann
