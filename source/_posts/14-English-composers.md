@@ -1,9 +1,9 @@
 ---
 title: 14 English composers
 category: podcast
-media: /podcast/14-English-composers.m4a
+media: /podcast/14-English-composers.mp3
 image: /image/14-English-composers.jpg
-mediatype: audio/m4a
+mediatype: audio/mpeg
 chapters: [
   ["0:01.000", "Vaughan Williams – Fantasia on a Theme by Thomas Tallis"],
   ["3:23.986", "引入 介绍 Purcell 01"],
@@ -20,12 +20,9 @@ subtitle: 14 English composers
 tags:
   - Vaughan Williams
   - Henry Purcell
-length: 24513234
+length: 24422977
 duration: 00:40:41
 ---
-
-<audio src="//static.sapu.gq/podcast/14-English-composers.m4a" controls preload="metadata"></audio>
-
 ## About
 嘉宾 张子筠
 
@@ -56,6 +53,3 @@ __拉尔夫·沃恩·威廉姆斯__ 于1872年出生在一个富裕且思想开�
 - 18:27.703 Vaughan Williams - Fantasia on Greensleeves
 - 22:52.085 介绍 Vaughan Williams 02
 - 24:46.665 结语 Vaughan Williams - The Lark Ascending
-
-### [下载链接](//static.sapu.gq/podcast/14-English-composers.m4a)
-

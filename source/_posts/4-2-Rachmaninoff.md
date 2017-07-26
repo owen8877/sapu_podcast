@@ -2,13 +2,13 @@
 title: 4 Rachmaninoff (Second Half)
 image: /image/logo.jpg
 category: podcast
-media: /podcast/4-2-Rachmaninoff.m4a
-mediatype: audio/m4a
+media: /podcast/4-2-Rachmaninoff.mp3
+mediatype: audio/mpeg
 date: 2016-12-10 13:25:21
 subtitle: Symphony, Sonata and other works of Rachmanioff
 tags:
   - Rachmaninoff
-length: 38847768
+length: 39072100
 duration: 01:05:06
 chapters:
   [
@@ -21,8 +21,6 @@ chapters:
     ["1:02:01.400", "乐曲-11-Rhapsody-on-a-Theme-by-Paganini,Op.43-Variation-18-Vladimir-Ashkenazy"]
   ]
 ---
-<audio src="//static.sapu.gq/podcast/4-2-Rachmaninoff.m4a" controls preload="metadata"></audio>
-
 # About
 - 第四期节目，嘉宾王健博
 
@@ -42,6 +40,3 @@ chapters:
 - 0:46:21 Symphony-No.2-in-E-Minor,Op.27-(1993-Remaster)-IV.Allegro-vivace
 - 1:00:23 尾声
 - 1:02:01 Rhapsody-on-a-Theme-by-Paganini,Op.43-Variation-18-Vladimir-Ashkenazy
-
-### [下载链接](//static.sapu.gq/podcast/4-2-Rachmaninoff.m4a)
-

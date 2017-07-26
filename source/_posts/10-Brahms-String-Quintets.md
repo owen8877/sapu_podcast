@@ -1,9 +1,9 @@
 ---
 title: 10 勃拉姆斯的弦乐五重奏
 category: podcast
-media: /podcast/10-Brahms-String-Quintets.m4a
+media: /podcast/10-Brahms-String-Quintets.mp3
 image: /image/10-Brahms-String-Quintets.jpg
-mediatype: audio/m4a
+mediatype: audio/mpeg
 chapters: [
   ["0:00.000", "Brahms String Quintet No1 I"],
   ["2:40.990", "引子"],
@@ -24,11 +24,9 @@ subtitle: 10 Brahms String Quintets
 tags:
   - Brahms
   - Quintet
-length: 27411561
+length: 27310178
 duration: 00:45:30
 ---
-
-<audio src="//static.sapu.gq/podcast/10-Brahms-String-Quintets.m4a" controls preload="metadata"></audio>
 # About
 - 嘉宾 张子筠
 - 本期节目我们为大家介绍勃拉姆斯的两首弦乐五重奏 Op.88 和 111。
@@ -57,6 +55,3 @@ __勃拉姆斯__是德国浪漫主义中期作曲家，他的创作在体裁上�
 - 38:06.063 Brahms String Quintet No2 III
 - 39:44.749 介绍 No2 IV
 - 40:26.639 尾声 No2 IV
-
-### [下载链接](//static.sapu.gq/podcast/10-Brahms-String-Quintets.m4a)
-

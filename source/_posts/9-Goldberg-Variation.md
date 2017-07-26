@@ -1,8 +1,8 @@
 title: 9 Goldberg Variation (19-30)
 category: podcast
-media: /podcast/9-Goldberg-Variation.m4a
+media: /podcast/9-Goldberg-Variation.mp3
 image: /image/9-Goldberg-Variations.jpg
-mediatype: audio/m4a
+mediatype: audio/mpeg
 chapters:
   - - '0:00.000'
     - aria
@@ -40,12 +40,10 @@ tags:
   - Goldberg Variation
   - Trio
   - Gould
-length: 16912479
+length: 16851940
 duration: '00:28:04'
 date: 2017-03-31 12:00:00
 ---
-<audio src="//static.sapu.gq/podcast/9-Goldberg-Variation.m4a" controls preload="metadata"></audio>
-
 ## About
 - 嘉宾 陈子恒
 - 这两期节目我们将交替听到弦乐三重奏版与钢琴版的哥德堡变奏曲
@@ -79,5 +77,3 @@ date: 2017-03-31 12:00:00
 - 22:17.306 var 29
 - 23:19.139 var 30
 - 25:11.368 aria da capo
-
-### [下载链接](//static.sapu.gq/podcast/9-Goldberg-Variation.m4a)

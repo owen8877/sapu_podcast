@@ -1,7 +1,7 @@
 title: 7 Faure II
 image: /image/7-Faure.jpg
-media: /podcast/7-Faure.m4a
-mediatype: audio/m4a
+media: /podcast/7-Faure.mp3
+mediatype: audio/mpeg
 chapters:
   - - '0:00.000'
     - 弗雷摇篮曲
@@ -30,13 +30,11 @@ tags:
   - Faure
   - Requiem
   - Élégie
-length: 18054906
+length: 17989780
 duration: 00:29:58
 categories: podcast
 date: 2017-03-17 12:00:00
 ---
-<audio src="//static.sapu.gq/podcast/7-Faure.m4a" controls preload="metadata"></audio>
-
 ## About
 - 本期嘉宾 **张子筠**
 
@@ -64,5 +62,3 @@ date: 2017-03-17 12:00:00
 - 23:55.000 弗雷 安魂曲 第七首
 - 27:39.000 结语
 - 28:00.600 弗雷 圣母颂
-
-### [下载链接](//static.sapu.gq/podcast/7-Faure.m4a)

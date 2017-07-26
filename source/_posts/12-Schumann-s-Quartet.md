@@ -1,9 +1,9 @@
 ---
 title: 12 舒曼弦乐四重奏 No.3
 category: podcast
-media: /podcast/12-Schumann's-Quartet.m4a
-image: /image/12-Schumann-s-Quartet.jpg
-mediatype: audio/m4a
+media: /podcast/12-Schumann-Quartet.mp3
+image: /image/12-Schumann-Quartet.jpg
+mediatype: audio/mpeg
 chapters: [
   ["0:00.000", "引子"],
   ["1:28.538", "Schumann Op41 No3 I"],
@@ -16,12 +16,9 @@ subtitle: 12 Schumann's Quartet
 tags:
   - Schumann
   - Quartet
-length: 18641876
+length: 18574180
 duration: 00:30:56
 ---
-
-<audio src="//static.sapu.gq/podcast/12-Schumann's-Quartet.m4a" controls preload="metadata"></audio>
-
 # About
 嘉宾 陈子恒
 
@@ -57,6 +54,4 @@ duration: 00:30:56
 - 7:35.222 Schumann Op41 No3 II
 - 14:22.000 Schumann Op41 No3 III
 - 23:53.743 Schumann Op41 No3 IV
-
-### [下载链接](//static.sapu.gq/podcast/12-Schumann's-Quartet.m4a)
 

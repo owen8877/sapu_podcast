@@ -2,8 +2,8 @@
 title: 5 Mahler
 image: /image/logo.jpg
 category: podcast
-media: /podcast/5-Mahler.m4a
-mediatype: audio/m4a
+media: /podcast/5-Mahler.mp3
+mediatype: audio/mpeg
 chapters: [
   ["00:00:00.000", "Mahler - Symphony No.1 in D - I"],
   ["00:05:50.000", "Introduction"],
@@ -22,11 +22,9 @@ subtitle: Adagios composed by Mahler
 tags:
   - Mahler
   - Adagio
-length: 71975588
+length: 71865968
 duration: 01:59:30
 ---
-<audio src="//static.sapu.gq/podcast/5-Mahler.m4a" controls preload="metadata"></audio>
-
 ## About
 - 第五期节目，嘉宾陆丹宁
 
@@ -47,5 +45,3 @@ duration: 01:59:30
 - 01:19:56 About Sym. No.10 I
 - 01:23:55 Mahler - Symphony No.10 in F# minor - I - Wiener Philharmoniker Orchestra - Claudio Abbado
 - 01:48:20 End & Mahler - Symphony No.1 in D - III - The London Symphony Orchestra - Sir Georg Solti
-
-### [下载链接](//static.sapu.gq/podcast/5-Mahler.m4a)

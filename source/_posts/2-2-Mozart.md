@@ -12,8 +12,6 @@ length: 52981555
 mediatype: audio/mpeg
 duration: 00:36:46
 ---
-<audio src="//static.sapu.gq/podcast/2-2-Mozart.mp3" controls preload="metadata"></audio>
-
 （下半集）本期节目邀请嘉宾唐思勋，主要聊了一聊莫扎特的交响曲、协奏曲、四重奏，乃至歌剧方面的作品。
 
 <!--more-->
@@ -24,5 +22,3 @@ duration: 00:36:46
 - (13:39) K622 A大调单簧管协奏曲第三乐章
 - (22:30) K550 g小调第40号交响曲
 - (31:29) K458 “狩猎”四重奏
-
-### [下载链接](//static.sapu.gq/podcast/2-2-Mozart.mp3)

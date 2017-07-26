@@ -11,8 +11,6 @@ tags:
 length: 46055248
 duration: 00:47:58
 ---
-<audio src="//static.sapu.gq/podcast/3-Vengerov-second.mp3" controls preload="metadata"></audio>
-
 （下半集）本期邀请了陈睿聪与我们一起分享聆听小提琴大师Vengerov演奏作品的心得感受。
 
 <!--more-->
@@ -22,5 +20,4 @@ duration: 00:47:58
 - (23:43) Sibelius Violin Concerto In D Minor Op. 47 I Allegro Mo
 - (40:11) Sibelius Violin Concerto In D Minor Op. 47 III Allegro, Ma Non Tanto
 
-### [下载链接](//static.sapu.gq/podcast/3-Vengerov-second.mp3)
 ### [下载第三集完整版](//static.sapu.gq/podcast/3-Vengerov.mp3)

@@ -2,8 +2,8 @@
 title: 1k Emperor and Serenades
 category: podcast
 image: /image/logo.jpg
-media: /podcast/1k-Emperor-and-Serenades.m4a
-mediatype: audio/m4a
+media: /podcast/1k-Emperor-and-Serenades.mp3
+mediatype: audio/mpeg
 chapters: [
   ["00:00:00", "心得分享 - 1"],
   ["00:03:40", "String Quartet in C, H.lll, Op.76, No.3 Emperor - 1. Allegro - DECCA"],
@@ -25,11 +25,9 @@ tags:
   - Haydn
   - Serenade
   - Dvorak
-length: 37834055
+length: 37693300
 duration: 01:02:48
 ---
-<audio src="//static.sapu.gq/podcast/1k-Emperor-and-Serenades.m4a" controls preload="metadata"></audio>
-
 ### 曲目来源
 - 皇帝四重奏 DECCA Ultimate Haydn: The Essential Masterpieces
 - 德沃夏克E大调弦乐小夜曲 内维尔 马里纳 指挥 圣保罗学院室内乐团
@@ -79,6 +77,3 @@ duration: 01:02:48
 - 00:45:42 Serenade for Strings in E, Op.22 - 3. Scherzo (Vivace) - Neville Marriner
 - 00:51:03 Serenade for Strings in E, Op.22 - 4. Larghetto - Neville Marriner
 - 00:56:28 Serenade for Strings in E, Op.22 - 5. Finale (Allegro vivace) Neville Marriner
-
-### [下载链接](//static.sapu.gq/podcast/1k-Emperor-and-Serenades.m4a)
-

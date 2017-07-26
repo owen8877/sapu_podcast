@@ -10,6 +10,7 @@ tags:
   - Tchaikovsky
 length: 46369054
 duration: 00:55:11
+except: true
 ---
 <audio src="//static.sapu.gq/podcast/4i-Select-Works-of-Tchaikovsky.mp3" controls preload="metadata"></audio>
 

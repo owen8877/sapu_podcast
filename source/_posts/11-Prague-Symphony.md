@@ -1,7 +1,7 @@
 ---
 title: 11 布拉格交响曲
 category: podcast
-media: /podcast/11-Prague-Symphony.m4a
+media: /podcast/11-Prague-Symphony.mp3
 image: /image/11-Prague-Symphony.jpg
 mediatype: audio/m4a
 chapters: [
@@ -25,12 +25,9 @@ subtitle: 11 Prague Symphony
 tags:
   - Mozart
   - Symphony
-length: 21551546
+length: 21472659
 duration: 00:35:46
 ---
-
-<audio src="//static.sapu.gq/podcast/11-Prague-Symphony.m4a" controls preload="metadata"></audio>
-
 # About
 - 嘉宾 刘帆
 
@@ -59,6 +56,3 @@ __交响曲__是在18世纪初，由意大利歌剧的序曲发展而来。序�
 - 17:57.443 唐璜序曲 K527
 - 23:39.377 关于交响曲的闲聊
 - 26:16.983 尾声 降B大调第27号钢琴协奏曲 III
-
-### [下载链接](//static.sapu.gq/podcast/11-Prague-Symphony.m4a)
-

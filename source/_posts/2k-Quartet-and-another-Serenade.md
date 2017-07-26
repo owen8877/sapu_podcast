@@ -2,8 +2,8 @@
 title: 2k Quartet and another Serenade
 image: /image/logo.jpg
 category: podcast
-media: /podcast/2k-Quartet-and-another-Serenade.m4a
-mediatype: audio/m4a
+media: /podcast/2k-Quartet-and-another-Serenade.mp3
+mediatype: audio/mpeg
 chapters: [
   ["0:00:30", "介绍与感想"],
   ["0:01:59", "Elgar Op20 - 1 Allegro piacevole"],
@@ -23,11 +23,9 @@ tags:
   - Mozart
   - Serenade
   - Elgar
-length: 18074216
+length: 18018714
 duration: 00:30:00
 ---
-<audio src="//static.sapu.gq/podcast/2k-Quartet-and-another-Serenade.m4a" controls preload="metadata"></audio>
-
 ## 录音版本
 - K525 - Takacs String Quartet - Schubert Trout Quintet, Mozart Eine kleine Nachtmusik
 - Elgar op20 - I Musici - Rota - Concerto Per Archi + Respighi Elgar Barber
@@ -86,6 +84,3 @@ duration: 00:30:00
 - (0:24:03) K525 - 3 Menuetto
 - (0:25:56) K525 - 4 Rondo
 - (0:29:46) Credits
-
-### [下载链接](//static.sapu.gq/podcast/2k-Quartet-and-another-Serenade.m4a)
-

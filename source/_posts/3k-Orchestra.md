@@ -2,8 +2,8 @@
 title: 3k Orchestra
 image: /image/logo.jpg
 category: podcast
-media: /podcast/3k-Orchestra.m4a
-mediatype: audio/m4a
+media: /podcast/3k-Orchestra.mp3
+mediatype: audio/mpeg
 chapters: [
   ["00:21.386", "介绍1"],
   ["00:52.680", "Mahler Sym No.4"],
@@ -23,11 +23,9 @@ tags:
   - Mahler
   - Schumann
   - Vivaldi
-length: 37212600
+length: 37086821
 duration: 01:01:46
 ---
-<audio src="//static.sapu.gq/podcast/3k-Orchestra.m4a" controls preload="metadata"></audio>
-
 ## 播放乐曲
 - Mahler - Symphony No. 5
 - Schumann Op. 41 - St Lawrence String Quartet
@@ -88,5 +86,3 @@ duration: 01:01:46
 - (51:01.520) Vivaldi RV215 No.2 I
 - (56:31.586) Vivaldi RV215 No.2 II
 - (58:45.600) Vivaldi RV215 No.2 III
-
-### [下载链接](//static.sapu.gq/podcast/3k-Orchestra.m4a)

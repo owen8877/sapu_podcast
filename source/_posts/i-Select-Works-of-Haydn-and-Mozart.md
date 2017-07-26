@@ -11,6 +11,7 @@ tags:
     - Mozart
 length: 20266801
 duration: 00:24:06
+except: true
 ---
 <audio src="//static.sapu.gq/podcast/i-Select-Works-of-Haydn-and-Mozart.mp3" controls preload="metadata"></audio>
 

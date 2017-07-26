@@ -1,9 +1,9 @@
 ---
 title: 13 舒曼弦乐四重奏 No.1
 category: podcast
-media: /podcast/13-Schumann's-Quartet.m4a
-image: /image/13-Schumann-s-Quartet.jpg
-mediatype: audio/m4a
+media: /podcast/13-Schumann-Quartet.mp3
+image: /image/13-Schumann-Quartet.jpg
+mediatype: audio/mpeg
 chapters: [
   ["0:00.000", "引子"],
   ["0:58.284", "Schumann Op41 No1 I"],
@@ -16,12 +16,9 @@ subtitle: 13 Schumann's Quartet
 tags:
   - Schumann
   - Quartet
-length: 17044210
+length: 16982980
 duration: 00:28:17
 ---
-
-<audio src="//static.sapu.gq/podcast/13-Schumann's-Quartet.m4a" controls preload="metadata"></audio>
-
 # About
 嘉宾 陈子恒
 
@@ -55,6 +52,4 @@ duration: 00:28:17
 - 10:49.368 Schumann Op41 No1 II
 - 14:46.000 Schumann Op41 No1 III
 - 21:16.676 Schumann Op41 No1 IV
-
-### [下载链接](//static.sapu.gq/podcast/13-Schumann's-Quartet.m4a)
 

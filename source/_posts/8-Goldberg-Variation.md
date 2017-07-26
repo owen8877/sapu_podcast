@@ -1,8 +1,8 @@
 title: 8 Goldberg Variation (1-18)
 category: podcast
-media: /podcast/8-Goldberg-Variation.m4a
+media: /podcast/8-Goldberg-Variation.mp3
 image: /image/8-Goldberg-Variations.jpg
-mediatype: audio/m4a
+mediatype: audio/mpeg
 chapters:
   - - '0:00.000'
     - aria
@@ -52,12 +52,10 @@ tags:
   - Goldberg Variation
   - Trio
   - Gould
-length: 19291187
+length: 19221220
 duration: '00:32:01'
 date: 2017-03-24 12:00:00
 ---
-<audio src="//static.sapu.gq/podcast/8-Goldberg-Variation.m4a" controls preload="metadata"></audio>
-
 ## About
 - 嘉宾 陈子恒
 - 这两期节目我们将交替听到弦乐三重奏版与钢琴版的哥德堡变奏曲
@@ -106,5 +104,3 @@ date: 2017-03-24 12:00:00
 - 26:38.268 var 17
 - 27:33.174 var 18
 - 28:16.081 aria da capo
-
-### [下载链接](//static.sapu.gq/podcast/8-Goldberg-Variation.m4a)

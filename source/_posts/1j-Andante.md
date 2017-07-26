@@ -1,9 +1,9 @@
 ---
 title: 1j Andante
 category: podcast
-media: /podcast/1j-Andante.m4a
+media: /podcast/1j-Andante.mp3
 image: /image/1j-Andante.jpg
-mediatype: audio/m4a
+mediatype: audio/mpeg
 chapters: [
   ["0:26.212", "介绍门德尔松钢三"],
   ["3:17.671", "Mendelssohn - Piano Trio, Op. 49 in D Minor - II Andante con moto tranquillo"],
@@ -19,12 +19,9 @@ tags:
   - Mendelssohn
   - Tchaikovsky
   - Bach
-length: 14071663
+length: 14021860
 duration: 00:23:21
 ---
-
-<audio src="//static.sapu.gq/podcast/1j-Andante.m4a" controls preload="metadata"></audio>
-
 ## About
 > 本集是收集了此前的听众反馈，播放了一些听众推荐的曲目。
 
@@ -55,8 +52,6 @@ duration: 00:23:21
 - 11:43.345 Tchaikovsky - String Quartet No.1 in D major Op.11 - II Andante cantabile
 - 18:58.892 介绍巴赫小奏第二首
 - 19:53.823 Bach - Sonata No. 2 in A Major, BWV 1015 - III Andante un poco
-
-### [下载链接](//static.sapu.gq/podcast/1j-Andante.m4a)
 
 ### Useful Links
 - [Italian Musical Terms](http://www.musictheory.org.uk/res-musical-terms/italian-musical-terms.php)

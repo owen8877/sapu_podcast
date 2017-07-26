@@ -5,9 +5,9 @@ tags:
   - Sonata
   - Barcarolle
 category: podcast
-media: /podcast/6-Faure.m4a
+media: /podcast/6-Faure.mp3
 image: /image/6-Faure.jpg
-mediatype: audio/m4a
+mediatype: audio/mpeg
 chapters:
   - - '00:00:00.000'
     - 弗雷第一小奏-第一乐章
@@ -26,12 +26,10 @@ chapters:
   - - '26:41.191'
     - 弗雷G大调船歌
 subtitle: 6-Faure-I
-length: 20146539
+length: 20072980
 duration: '00:33:26'
 date: 2017-03-10 12:00:00
 ---
-<audio src="//static.sapu.gq/podcast/6-Faure.m4a" controls preload="metadata"></audio>
-
 ## About
 - 本期嘉宾 **张子筠**
 
@@ -59,6 +57,3 @@ date: 2017-03-10 12:00:00
 - 18:13.196 弗雷第二小奏-第二乐章
 - 25:54.260 介绍 船歌 尾声
 - 26:41.191 弗雷G大调船歌
-
-### [下载链接](//static.sapu.gq/podcast/6-Faure.m4a)
-

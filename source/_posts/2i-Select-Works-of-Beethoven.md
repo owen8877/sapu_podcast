@@ -10,6 +10,7 @@ tags:
   - Beethoven
 length: 40080558
 duration: 00:47:42
+except: true
 ---
 <audio src="//static.sapu.gq/podcast/2i-Select-Works-of-Beethoven.mp3" controls preload="metadata"></audio>
 

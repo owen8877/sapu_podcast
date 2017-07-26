@@ -11,8 +11,6 @@ tags:
 length: 37527627
 duration: 00:39:05
 ---
-<audio src="//static.sapu.gq/podcast/3-Vengerov-first.mp3" controls preload="metadata"></audio>
-
 （上半集）本期邀请了陈睿聪与我们一起分享聆听小提琴大师Vengerov演奏作品的心得感受。
 
 <!--more-->
@@ -23,5 +21,4 @@ duration: 00:39:05
 - (17:26) Tzigane, Rhapsodie de Concert
 - (29:28) Violin Concerto No.1 in D major, op.6 Rondo Allegro spirituoso
 
-### [下载链接](//static.sapu.gq/podcast/3-Vengerov-first.mp3)
 ### [下载第三集完整版](//static.sapu.gq/podcast/3-Vengerov.mp3)

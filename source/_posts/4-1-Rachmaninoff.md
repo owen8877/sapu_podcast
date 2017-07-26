@@ -2,13 +2,13 @@
 title: 4 Rachmaninoff (First Half)
 image: /image/logo.jpg
 category: podcast
-media: /podcast/4-1-Rachmaninoff.m4a
-mediatype: audio/m4a
+media: /podcast/4-1-Rachmaninoff.mp3
+mediatype: audio/mpeg
 date: 2016-12-10 13:24:21
 subtitle: Symphony, Sonata and other works of Rachmanioff
 tags:
   - Rachmaninoff
-length: 37919230
+length: 38138020
 duration: 01:03:34
 chapters:
   [
@@ -22,8 +22,6 @@ chapters:
     ["00:45:15.000", "乐曲-06-Rachmaninov-Trio-No.2-in-D-Minor,Op.9-for-Piano,Violin-and-Cello-1-Beaux-Arts-Trio"]
   ]
 ---
-<audio src="//static.sapu.gq/podcast/4-1-Rachmaninoff.m4a" controls preload="metadata"></audio>
-
 # About
 - 第四期节目，嘉宾王健博
 
@@ -47,6 +45,3 @@ chapters:
 - 34:38 Sonata in G Minor for Cello & Piano, Op. 19, 4. Allegro mosso
 - 44:30 介绍悲歌三重奏的第一首
 - 45:15 Rachmaninov - Trio No.2 in D Minor, Op.9 for Piano, Violin and Cello - 1 - Beaux Arts Trio
-
-### [下载链接](//static.sapu.gq/podcast/4-1-Rachmaninoff.m4a)
-
