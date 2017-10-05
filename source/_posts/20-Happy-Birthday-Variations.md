@@ -22,7 +22,7 @@ chapters: [
   ["26:02.966", "Variation 14 - in the style of Hungarian music"],
   ["27:51.784", "Brahms - Hungarian Dance No.5 in G Minor"],
 ]
-date: 2017-10-05 12:00:00
+date: 2017-10-06 12:00:00
 subtitle: "Happy Birthday to 弦琴音蕴"
 tags:
   - Variation
