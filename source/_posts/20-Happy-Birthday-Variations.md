@@ -1,8 +1,8 @@
 ---
-title: Happy Birthday Variations
+title: 20 Happy Birthday Variations
 category: podcast
-media: /podcast/Happy-Birthday-Variations.mp3
-image: /image/Happy-Birthday-Variations.jpg
+media: /podcast/20-Happy-Birthday-Variations.mp3
+image: /image/20-Happy-Birthday-Variations.jpg
 mediatype: audio/mpeg
 chapters: [
   ["0:00.000", "Theme"],
@@ -22,7 +22,7 @@ chapters: [
   ["26:02.966", "Variation 14 - in the style of Hungarian music"],
   ["27:51.784", "Brahms - Hungarian Dance No.5 in G Minor"],
 ]
-date: 2017-09-15 12:00:00
+date: 2017-10-05 12:00:00
 subtitle: "Happy Birthday to 弦琴音蕴"
 tags:
   - Variation
