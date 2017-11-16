@@ -5,19 +5,19 @@ media: /podcast/23-Organ.mp3
 image: /image/23-Organ.jpg
 mediatype: audio/mpeg
 chapters: [
-  ["0:00.000", "J.S. Bach - Trio Sonata for Organ No.3 - II. Adagio e dolce"],
+  ["0:00.000", "J.S. Bach - Trio Sonata for Organ No.3, BWV 527 - II. Adagio e dolce"],
   ["1:53.744", "引子"],
-  ["5:27.499", "Felix Mendelssohn - Organ Sonata No.1 - II. Adagio"],
-  ["8:20.000", "Felix Mendelssohn - Organ Sonata No.1 - I. Allegro moderato e serioso"],
-  ["15:01.997", "Felix Mendelssohn - Organ Sonata No.6 - II. Chorale - Andante Sostenuto"],
-  ["20:53.842", "Felix Mendelssohn - Organ Sonata No.6 - II. Fuga. Sostenuto e legato"],
-  ["23:39.426", "Felix Mendelssohn - Organ Sonata No.6 - III. Finale. Andante"],
-  ["26:25.052", "Felix Mendelssohn - Organ Sonata No.5 - II. Andante con moto"],
-  ["30:07.151", "介绍弗兰克 背景音乐：Franck - 3 Chorales No.1 in E major"],
-  ["31:09.079", "Franck - Fantaisie in C major - I Poco lento"],
-  ["36:17.034", "Franck - Grande pièce symphonique Op.17 - I Andantino serioso"],
-  ["38:08.443", "Franck - Prélude, fugue & variation Op.18 - I Prélude - Andantino"],
-  ["41:58.627", "结语 Franck - Prélude, fugue & variation Op.18 - II Fugue"],
+  ["8:20.000", "Felix Mendelssohn - Organ Sonata No.1, Op. 65 - I. Allegro moderato e serioso"],
+  ["13:35.677", "Felix Mendelssohn - Organ Sonata No.6, Op. 65 - I. Chorale - Andante Sostenuto"],
+  ["19:27.522", "Felix Mendelssohn - Organ Sonata No.6, Op. 65 - II. Fuga. Sostenuto e legato"],
+  ["22:13.106", "Felix Mendelssohn - Organ Sonata No.6, Op. 65 - III. Finale. Andante"],
+  ["24:58.732", "Felix Mendelssohn - Organ Sonata No.5, Op. 65 - I. Andante"],
+  ["27:11.715", "Felix Mendelssohn - Organ Sonata No.5, Op. 65 - II. Andante con moto"],
+  ["30:05.769", "介绍弗兰克 背景音乐：Franck - 3 Chorales No.1"],
+  ["31:07.622", "Franck - Fantaisie in C major, Op. 16 - I Poco lento"],
+  ["36:15.652", "Franck - Grande pièce symphonique Op.17 - I Andantino serioso"],
+  ["38:05.530", "Franck - Prélude, fugue & variation Op.18 - I Prélude - Andantino"],
+  ["41:57.245", "结语 Franck - Prélude, fugue & variation Op.18 - II Fugue"],
 ]
 date: 2017-11-17 12:00:00
 subtitle: 23-Organ
@@ -67,22 +67,20 @@ duration: 00:45:46
 弗兰克的前奏曲，赋格与变奏曲与之前的管风琴交响曲创作于同一时期。和另外两首以"前奏曲"作为组曲第一首的作品（前奏曲，圣咏与赋格，FWV.21；前奏曲，咏叹调与终曲，FWV.23）不同，它最早写在管风琴而不是钢琴上。尽管这首也常常被用于钢琴演奏，尽管钢琴也具有强弱易控制的优势，但它宏大、绵密的声音注定要在一个拥有保持音效果的乐器上才能充分发挥出来。
 
 ## 结语
-需要注意的是，管风琴音乐通常各个版本差别比较大，一方面是因为琴的构造、大厅的音响条件千差万别，不同的琴，音栓（也就是音色）的种类、键盘的灵敏程度和大厅的返响都很不相同；另一方面，有时作曲家并不在谱面上指定音栓的具体使用方式，需要演奏家根据琴的情况来搭配，好比厨师根据调料的产地选择放调料的配比一样。聆听这些不同的版本也是一种乐趣。当然，还是建议大家有条件的情况下去现场听一次管风琴，感受它音响的层次感、振动时巨大的能量，也许这会让你对录音中浑浊的返响产生一些不同的“脑补”方式。
-
 除了门德尔松与弗兰克，同一时期为管风琴写作的作曲家还包括李斯特、圣桑、舒曼，以及不那么擅长写管风琴的勃拉姆斯。 Max Reger 紧随其后，而当进入 20 世纪，欣德米特、梅西安等人进一步扩大了管风琴的表达范畴，创造出了更丰富的色彩和表现力。在室内管风琴之外，电子管风琴的出现，方便了这种乐器的普及。这一古老的乐器，至今仍然拥有强大的生命力。下一次，当我们走进音乐厅，面对一整个墙面的“暖气片”——管风琴音管时，是否又会有一些不一样的想象？
 
 ## Misc
 ### TimeLine
-- 0:00.000 J.S. Bach - Trio Sonata for Organ No.3 - II. Adagio e dolce
+- 0:00.000 J.S. Bach - Trio Sonata for Organ No.3, BWV 527 - II. Adagio e dolce
 - 1:53.744 引子
-- 5:27.499 Felix Mendelssohn - Organ Sonata No.1 - II. Adagio
-- 8:20.000 Felix Mendelssohn - Organ Sonata No.1 - I. Allegro moderato e serioso
-- 15:01.997 Felix Mendelssohn - Organ Sonata No.6 - II. Chorale - Andante Sostenuto
-- 20:53.842 Felix Mendelssohn - Organ Sonata No.6 - II. Fuga. Sostenuto e legato
-- 23:39.426 Felix Mendelssohn - Organ Sonata No.6 - III. Finale. Andante
-- 26:25.052 Felix Mendelssohn - Organ Sonata No.5 - II. Andante con moto
-- 30:07.151 介绍弗兰克 背景音乐：Franck - 3 Chorales No.1 in E major
-- 31:09.079 Franck - Fantaisie in C major - I Poco lento
-- 36:17.034 Franck - Grande pièce symphonique Op.17 - I Andantino serioso
-- 38:08.443 Franck - Prélude, fugue & variation Op.18 - I Prélude - Andantino
-- 41:58.627 结语 Franck - Prélude, fugue & variation Op.18 - II Fugue
+- 8:20.000 Felix Mendelssohn - Organ Sonata No.1, Op. 65 - I. Allegro moderato e serioso
+- 13:35.677 Felix Mendelssohn - Organ Sonata No.6, Op. 65 - I. Chorale - Andante Sostenuto
+- 19:27.522 Felix Mendelssohn - Organ Sonata No.6, Op. 65 - II. Fuga. Sostenuto e legato
+- 22:13.106 Felix Mendelssohn - Organ Sonata No.6, Op. 65 - III. Finale. Andante
+- 24:58.732 Felix Mendelssohn - Organ Sonata No.5, Op. 65 - I. Andante
+- 27:11.715 Felix Mendelssohn - Organ Sonata No.5, Op. 65 - II. Andante con moto
+- 30:05.769 介绍弗兰克 背景音乐：Franck - 3 Chorales No.1
+- 31:07.622 Franck - Fantaisie in C major, Op. 16 - I Poco lento
+- 36:15.652 Franck - Grande pièce symphonique Op.17 - I Andantino serioso
+- 38:05.530 Franck - Prélude, fugue & variation Op.18 - I Prélude - Andantino
+- 41:57.245 结语 Franck - Prélude, fugue & variation Op.18 - II Fugue
