@@ -1,16 +1,3 @@
----
-title: 34-Dvorak-Piano-Quintet
-category: podcast
-media: /podcast/"34-Dvorak-Piano-Quintet".mp3
-image: /image/"34-Dvorak-Piano-Quintet".jpg
-mediatype: audio/mpeg
-chapters: []
-date: 2018-12-19 11:06:54
-subtitle:
-tags:
-length:
-duration:
----
 ## About
 - 嘉宾 杨婧仪 修格致 陈晨 刘斯敏 张国钰
 
