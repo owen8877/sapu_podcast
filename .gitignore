@@ -8,3 +8,4 @@ node_modules/
 themes/
 tmp/
 public/
+progress.json
